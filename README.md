@@ -11,3 +11,4 @@
 
 При изменении файлов в папке `web/`, используйте `python3 update_docs.py` для синхронизации в `docs/` перед деплоем.
 # Force update Wed Sep 24 11:37:28 +04 2025
+# Force update Wed Sep 24 11:57:42 +04 2025
